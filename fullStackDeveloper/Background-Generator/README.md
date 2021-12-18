@@ -1,2 +1,5 @@
 # Background-Generator
-Two palette buttons that generate a gradient background - test file
+
+Projeto com dois botões com paleta de cores que irão gerar um fundo de tela em gradiente.
+
+
